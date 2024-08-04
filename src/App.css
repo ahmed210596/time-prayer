@@ -1,0 +1,10 @@
+html{
+  direction: rtl;
+}
+
+.MuiSelect-select{
+  border-color: black!important;
+}
+.MuiSvgIcon-root{
+  color:black;
+}
